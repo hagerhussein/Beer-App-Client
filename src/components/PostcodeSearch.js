@@ -111,14 +111,6 @@ export default function PostcodeSearch(props) {
               <Grid container>
                 <Grid item md={6}>
                   <div className={classes.landingPageContent}>
-                    <Typography
-                      component="h4"
-                      variant="h5"
-                      color="inherit"
-                      gutterBottom
-                    >
-                      Brewery Finder
-                    </Typography>
                     <Typography variant="h6" color="inherit" paragraph>
                       Find your nearest brewery anywhere in the Netherlands with
                       this app. Simply put a valid Dutch Postcode in the search
