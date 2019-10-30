@@ -92,7 +92,7 @@ export default function PostcodeSearch(props) {
         <ThemeProvider theme={theme}>
           <AppBar position="relative" color="primary">
             <Toolbar>
-              <Typography variant="h5" color="inherit" noWrap>
+              <Typography variant="h4" color="inherit" noWrap>
                 Brewery Finder
               </Typography>
             </Toolbar>
@@ -112,14 +112,14 @@ export default function PostcodeSearch(props) {
                 <Grid item md={6}>
                   <div className={classes.landingPageContent}>
                     <Typography
-                      component="h1"
-                      variant="h3"
+                      component="h4"
+                      variant="h5"
                       color="inherit"
                       gutterBottom
                     >
                       Brewery Finder
                     </Typography>
-                    <Typography variant="h5" color="inherit" paragraph>
+                    <Typography variant="h6" color="inherit" paragraph>
                       Find your nearest brewery anywhere in the Netherlands with
                       this app. Simply put a valid Dutch Postcode in the search
                       bar below and You are one step closer to your favorite
