@@ -190,7 +190,7 @@ export default function PostcodeSearch(props) {
                     <Hidden xsDown>
                       <CardMedia
                         className={classes.cardMedia}
-                        image="https://image-cdn.neatoshop.com/styleimg/77353/none/black/default/395473-20;1535423983t.jpg"
+                        image="http://cdn.24.co.za/files/Cms/General/d/6749/2c36ba0a8abe47e2808183dc0b827927.png"
                         title="Image title"
                       />
                     </Hidden>

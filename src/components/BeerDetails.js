@@ -82,7 +82,7 @@ export default function BeerDetails(props) {
               </Grid>
             </Container>
             <Link onClick={props.goBackToPreviousPage}>
-              <Button color="secondary" size="large">
+              <Button color="primary" size="large">
                 Go back
               </Button>
             </Link>
