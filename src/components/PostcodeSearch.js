@@ -23,11 +23,11 @@ import { ThemeProvider } from "@material-ui/styles";
 export const theme = createMuiTheme({
   palette: {
     primary: {
-      // main: "#bf360c"
-       main: "#5d4037"
+      main: "#bf360c"
+      //  main: "#5d4037"
     },
     secondary: {
-      main: "#ff7043"
+      main: "#a1887f"
       // main: "#424242"
     }
   },
