@@ -1,5 +1,5 @@
 import request from 'superagent'
-const baseUrl =  'https://beer-app-server.herokuapp.com/' || 'http://localhost:4000' 
+const baseUrl =  'https://beer-app-server.herokuapp.com' || 'http://localhost:4000' 
 
 export const BREWERY_FETCHED = "BREWERY_FETCHED";
 
